@@ -1,0 +1,6 @@
+DECLARE
+   pi CONSTANT NUMBER := 3.14159;
+BEGIN
+   DBMS_OUTPUT.PUT_LINE('Value of Pi: ' || pi);
+END;
+/
