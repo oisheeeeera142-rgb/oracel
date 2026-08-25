@@ -1,0 +1,7 @@
+
+DECLARE
+   msg VARCHAR2(20) := 'Hello World';
+BEGIN
+   DBMS_OUTPUT.PUT_LINE(UPPER(msg));
+END;
+/
