@@ -1,0 +1,4 @@
+1.BEGIN
+   DBMS_OUTPUT.PUT_LINE('Hello ADBMS Section C');
+END;
+/
